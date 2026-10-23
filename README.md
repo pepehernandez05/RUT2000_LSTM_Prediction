@@ -52,4 +52,4 @@ pip install -r requirements.txt
 
 ## Autor
 
-José Ignacio Hernández Pablos y Mencía Marzal Higueros
+José Ignacio Hernández Pablos y Mencía Marzal Higuero
