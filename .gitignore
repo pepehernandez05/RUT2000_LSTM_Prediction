@@ -1,0 +1,23 @@
+# Entornos
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos (descargar / regenerar con los notebooks)
+datasets/unprocessed/
+datasets/processed/
+
+# Modelos entrenados
+*.h5
+*.keras
+
+# Secretos y sistema
+.env
+.DS_Store
