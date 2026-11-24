@@ -7,7 +7,7 @@ Proyecto de series temporales financieras: se limpia y prepara el histórico dia
 | Archivo | Descripción |
 |---|---|
 | `Preprocesado_RUT2000.ipynb` | Limpieza (formatos, nulos, duplicados, consistencia High/Low), feature engineering, split cronológico 80/20, escalado con `MinMaxScaler` y creación de secuencias. |
-| `Modelo_LSTM_multivariable.ipynb` | Definición, entrenamiento (con `EarlyStopping`) y evaluación del modelo LSTM. |
+| `Modelo_LSTM_multivariable.ipynb` | Definición, entrenamiento (con `EarlyStopping`) y evaluación del modelo LSTM |
 
 ## Variables utilizadas
 
